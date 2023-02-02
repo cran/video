@@ -1,7 +1,7 @@
 Package: video
 Type: Package
 Title: 'Shiny' Extension of 'video.js'
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Ashley", "Baldry", email = "arbaldry91@gmail.com", role = c("aut", "cre")),
     person("Steve", "Heffernan", role = "aut", comment = "Creator of video.js")
@@ -16,15 +16,15 @@ BugReports: https://github.com/ashbaldry/video/issues
 Encoding: UTF-8
 Depends: R (>= 2.10)
 Imports: shiny, htmlwidgets, jsonlite
-Suggests: rmarkdown, knitr, shinytest2, globals, testthat (>= 3.0.0)
+Suggests: rmarkdown, knitr, shinytest2, testthat (>= 3.0.0)
 Language: en-GB
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.3
 Config/testthat/edition: 3
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-07-21 17:11:08 UTC; arbal
+Packaged: 2023-02-02 19:04:09 UTC; arbal
 Author: Ashley Baldry [aut, cre],
   Steve Heffernan [aut] (Creator of video.js)
 Maintainer: Ashley Baldry <arbaldry91@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-07-21 17:50:02 UTC
+Date/Publication: 2023-02-02 19:20:02 UTC
